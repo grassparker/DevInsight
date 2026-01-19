@@ -2,11 +2,9 @@
 {"dg-publish":true,"permalink":"/studi-lib/","tags":["gardenEntry"]}
 ---
 
-
-![Chicken.png](/img/user/%F0%9F%8F%9E%EF%B8%8F%20Pics/Chicken.png)
-> [!warning] Important
-> [[24th Nov, 2025\|24th Nov, 2025]]
-> Check object collisions. Lots of bugs
+> [!warning] Note
+> @20th Jan
+> Draw new app sprites!!!
 
 The app that makes studying with friends easier, fun, and way less lonely—set goals, join group sessions, and power through your work together!
 
